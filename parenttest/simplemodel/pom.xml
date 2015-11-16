@@ -9,6 +9,7 @@
   </parent>
   
   <artifactId>simplemodel</artifactId>
+  <packaging>jar</packaging>
   <name>simplemodel</name>
   <url>http://maven.apache.org</url>
   <packaging>jar</packaging>
